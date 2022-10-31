@@ -1,0 +1,116 @@
+*{
+	box-sizing: border-box;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0px 1px 3px #00000033;
+    overflow: hidden;
+    padding:10px;
+}
+#header{
+	clear: both;
+}
+.row{
+	width: 100%;
+}
+.column-left{
+	float: left;
+	width: 20%;
+	padding: 10px;
+	
+}
+.column-right{
+	float: left;
+	width: 80%;
+	padding: 10px;
+}
+.logo{
+	width: 100px;
+}
+.logo img{
+	width: 100%;
+}
+.right-column-left{
+	float: left;
+	width: 50%;
+	padding: 10px;
+}
+.right-column-right{
+	float: left;
+	width: 50%;
+	padding: 10px;
+}
+.registration-card{
+	width: 100%;
+}
+.registration-card-box {
+    width: 150px;
+    border: 1px solid black;
+    float: right;
+    text-align: center;
+    background: #80808021;
+}
+.registration-card-box p{
+	margin: 0px;
+	padding: 0px;
+
+}
+.right-column-right p{
+	text-align: center;
+}
+.Universityname h3 {
+    text-align: center;
+    margin-right: 175px;
+}
+.Universityname p {
+    text-align: center;
+    margin-right: 175px;
+}
+#information .column{
+	float: left;
+	width: 33%;
+	padding: 10px;
+	
+}
+#information{
+	clear: both;
+}
+table#table-2 {
+    margin-top: 17px;
+}
+section#sign {
+    clear: both;
+}
+#sign .column{
+	float: left;
+	width: 33%;
+	padding: 10px;
+	
+}
+
+#tableinfo{
+	clear: both;
+	margin-bottom: 100px;
+}
+
+table{
+	width: 100%;
+}
+#table-infomation{
+	border: 1px solid black;
+	 border-collapse: collapse;
+}
+#table-infomation th{
+	border: 1px solid black;
+}
+#table-infomation td{
+	border: 1px solid black;
+}
+
+#table-infomation td{
+	text-align: center;
+	vertical-align: center;
+}
+
